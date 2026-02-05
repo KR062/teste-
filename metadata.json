@@ -1,0 +1,7 @@
+{
+  "name": "P.A Celular",
+  "description": "Loja completa de celulares com identificação de aparelhos via IA e layout minimalista futurista.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
